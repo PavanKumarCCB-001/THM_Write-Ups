@@ -13,18 +13,18 @@ Clues Given to Us:
 Now Searching in the Google gave us the information that Boni Avenue is in ***philippines***.
 
 
-![Location.jpeg]
+![Location.png]
 
 
 Now I've Searched along with the Contact Number to find the Station
 
 
-![Station.jpeg]
+![Station.png]
 
 Finally after clicking the link we can view the Contact Details
 
 
-![Contact.jpeg]
+![Contact.png]
 
 
 ##  Hope You Liked This.!
